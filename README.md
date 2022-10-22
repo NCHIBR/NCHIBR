@@ -11,7 +11,7 @@
 ## Education
 - <b>Web Development</b> <i>Bachelor</i>
 - <b>Computer science</b> <i>Academy Profession (AP)</i>    
-- <b>Web development</b> <i>Vocational education</i>
+- <b>Web Development</b> <i>Vocational education</i>
 - <b>IT-Supporter</b> <i>Vocational education</i>
 <br>
 
