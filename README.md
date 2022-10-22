@@ -8,20 +8,19 @@
 </p>
 <br>
 
+## Education
+- <b>Web Development</b> <i>Bachelor</i>
+- <b>Computer science</b> <i>Academy Profession (AP)</i>    
+- <b>Web development</b> <i>Vocational education</i>
+- <b>IT-Supporter</b> <i>Vocational education</i>
+<br>
+
 ## Contact
 <p align="left">
 📧 hevger <a href="#"><img width="12" src="https://user-images.githubusercontent.com/99013965/197364766-6f01da35-2988-458f-bb8d-fcb85895abbc.png"/></a> ibrahim.nu
 <br>
 📧 hibr <a href="#"><img width="12" src="https://user-images.githubusercontent.com/99013965/197364766-6f01da35-2988-458f-bb8d-fcb85895abbc.png"/></a> netcompany.com
 </p>
-
-<br>
-
-## Education
-- <b>Web Development</b> <i>Bachelor</i>
-- <b>Computer science</b> <i>Academy Profession (AP)</i>    
-- <b>Web development</b> <i>Vocational education</i>
-- <b>IT-Supporter</b> <i>Vocational education</i>
 
 <br>
 
