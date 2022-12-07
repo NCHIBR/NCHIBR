@@ -16,11 +16,12 @@
 - <b>IT-Supporter</b> <i>Vocational education</i>
 <br>
 
+
 ## Contact
 <p align="left">
-📧 hevger <a href="#"><img width="12" src="https://user-images.githubusercontent.com/99013965/197364766-6f01da35-2988-458f-bb8d-fcb85895abbc.png#gh-light-mode-only"/></a><a href="#"><img width="12" src="https://user-images.githubusercontent.com/99013965/199252831-c8b80305-76ca-4bc9-9410-44363a33fc44.png#gh-dark-mode-only"/></a> ibrahim.nu
+📧 hevger <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/99013965/199252831-c8b80305-76ca-4bc9-9410-44363a33fc44.png"><img width="12" src="https://user-images.githubusercontent.com/99013965/197364766-6f01da35-2988-458f-bb8d-fcb85895abbc.png"></picture><a> ibrahim.nu
 <br>
-📧 hibr <a href="#"><img width="12" src="https://user-images.githubusercontent.com/99013965/197364766-6f01da35-2988-458f-bb8d-fcb85895abbc.png#gh-light-mode-only"/></a><a href="#"><img width="12" src="https://user-images.githubusercontent.com/99013965/199252831-c8b80305-76ca-4bc9-9410-44363a33fc44.png#gh-dark-mode-only"/></a> netcompany.com
+📧 hibr <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/99013965/199252831-c8b80305-76ca-4bc9-9410-44363a33fc44.png"><img width="12" src="https://user-images.githubusercontent.com/99013965/197364766-6f01da35-2988-458f-bb8d-fcb85895abbc.png"></picture></a> netcompany.com
 </p>
 
 <br>
